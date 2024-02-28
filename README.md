@@ -14,6 +14,8 @@ The team will divide tasks and use a variety of tools to achieve a portfolio of 
 -Python Matplotlib
 -JavaScript Plotly
 -MongoDB Database
+-Tableau
+-HTML, CSS, & Bootstrap
 
 **Data Sets**
 -HUD Exchange PIT and HIC Data Since 2007 - https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
